@@ -2,6 +2,8 @@ const CACHE_NAME = 'macan-cache-v1';
 const urlsToCache = [
   '/macan.html',
   '/macan2.html',
+  '/manifest.json',
+  '/serviceworker.js',
   '/styles.css',
   '/icon-192x192.png',
   '/icon-512x512.png'
